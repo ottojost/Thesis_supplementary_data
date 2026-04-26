@@ -9,4 +9,4 @@ Contains the complete template sequences used throughout the experiments:
 
 ### 2. Scripts
 Contains the custom computational workflows:
-* **Primer_generating_pipeline.py:** A custom Python script developed to generate primer pairs suitable for RPA with similar forward and reverse primers, using the modified output of PrimedRPA as input.
+* **Primer_generating_pipeline.py:** A custom Python script developed to generate primer pairs suitable for RPA with similar forward and reverse primers, using the modified output of PrimedRPA as input. The script gives an Excel file as output, containing the new primer pairs and all their relevant information. This file was used as the candidate set for DoE design generation.
