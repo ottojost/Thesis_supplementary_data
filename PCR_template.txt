@@ -74,6 +74,6 @@ ttttgtc
 
 Forward primer (2025_0386): gcgtttaagacgggcgaca 
 Reverse primer (2025_0387): cagctcgctggtccagaact
-==> 2867 basepairs
+==> 2867 basepairs amplicon
 
 
